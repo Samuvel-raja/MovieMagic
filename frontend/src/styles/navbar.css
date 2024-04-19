@@ -1,0 +1,11 @@
+.nav-item:hover
+{
+   padding: 2px;
+   box-shadow: 2px 2px 2px 4px gray;
+   border-radius: 30px;
+   transition: 0.5s;
+}
+.navbar
+{
+   background-color:aliceblue;
+}

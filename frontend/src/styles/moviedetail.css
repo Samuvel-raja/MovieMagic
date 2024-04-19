@@ -1,0 +1,13 @@
+.bookdetail
+{
+    margin: 20px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 2px grey;
+}
+
+.bookdetail:hover
+{
+    border-radius: 15px;
+    box-shadow: 1px 1px 1px 2px blue;
+}

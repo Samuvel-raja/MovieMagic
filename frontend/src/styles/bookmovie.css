@@ -1,0 +1,44 @@
+.bookmoviecont
+{
+    overflow-x: hidden;
+}
+.seatcontainer 
+{
+    margin-top: 40px;
+    margin-left: 200px;
+    
+    margin-bottom: 20px;
+ 
+}
+.seats_seaction
+{
+    display: flex;
+    
+}
+form
+{
+    width: 500px;
+    padding: 70px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px 4px gray;
+    font-weight: 600;
+    height: 550px;
+  
+}
+.movieimage
+{
+    width: 100%;
+    height: 600px;
+   
+    border-top-left-radius: 90px;
+    border-bottom-right-radius: 90px;
+    box-shadow: 2px 2px 2px 4px grey;
+}
+form button
+{
+   margin-left: 95px;
+}
+form input
+{
+    padding: 30px;
+}
